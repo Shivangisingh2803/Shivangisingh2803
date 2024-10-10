@@ -15,8 +15,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangisingh2803&label=Profile%20views&color=0e75b6&style=flat" alt="shivangisingh2803" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shivangi-singh-97b99b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivangi-singh-97b99b279" height="30" width="40" /></a>
+<p align="left"><a href="[your-linkedin-profile-url](https://linkedin.com/in/www.linkedin.com/in/shivangi-singh-97b99b279)"><img src="generated-image-link" alt="LinkedIn"></a>
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/shivangi-singh-97b99b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/www.linkedin.com/in/shivangi-singh-97b99b279" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
